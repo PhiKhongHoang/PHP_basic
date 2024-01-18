@@ -27,7 +27,4 @@
     define('SERVER_NAME', 'localhost'); // tên hằng không có $
     define('DATABASE_NAME', 'test_db');
     echo "server: ".SERVER_NAME.', db: '.DATABASE_NAME;
-    
-    
-
 ?>
